@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'github_oauth_credentials.dart';
-import 'src/github_login.dart';
+// import 'github_oauth_credentials.dart';
+// import 'src/github_login.dart';
 import 'src/navigation_drawer.dart';
 
 void main() {
